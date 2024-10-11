@@ -4,7 +4,6 @@ import (
 	"MorphDAG/config"
 	"MorphDAG/core/types"
 	"math"
-	"sort"
 )
 
 // CalculateConcurrency calculates resilient block concurrency according to the pending pool size
